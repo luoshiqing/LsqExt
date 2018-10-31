@@ -5,6 +5,9 @@
 //  Created by DayHR on 2018/10/31.
 //  Copyright © 2018年 zhcx. All rights reserved.
 //
+class Lsq {
+    
+}
 
 import UIKit
 
